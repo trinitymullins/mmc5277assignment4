@@ -61,7 +61,7 @@ nav a{
 }
 
 .banner-area{
-  width: 100%;
+  width: 50%;
   height: 500px;
   position: relative;
   opacity: 1;
@@ -70,6 +70,7 @@ nav a{
   background-size: cover;
   background-position: center center;
   border-radius: 30px;
+  margin: 0 auto;
 }
 .banner-area h1{
   font-size: 70px;
@@ -89,7 +90,7 @@ nav a{
   min-width: 300px;
   min-height: 300px;
   padding: 20px 50px;
-  margin: 0 auto;
+  margin: auto;
 }
 .content-area h2{
   font-family: fantasy;
@@ -97,7 +98,7 @@ nav a{
   padding-top: 35px;
   color: #fff;
   font-size: 40px;
-  margin: 0 auto;
+  margin: auto;
 }
 .content-area p{
   background: white;
@@ -106,9 +107,9 @@ nav a{
   max-width: 800px;
   min-width: 300px;
   min-height: 300px;
-  border: 1px solid black;
+  border: 2px solid #4e1366;
   padding: 20px 50px;
-  margin: 0 auto;
+  margin: auto;
   overflow-x: hidden;
   overflow-y: auto;
   font-family: 'Poppins', sans-serif;
