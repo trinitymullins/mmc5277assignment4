@@ -11,4 +11,4 @@ geeksforgeeks.org
 
 I, Trinity Mullins, have read the point deduction list and understand that I will lose points for missing items.
 
-![tarot](https://www.youtube.com/watch?v=BkbkUtrLkls)
+![tarot](https://cdn.shopify.com/s/files/1/0164/8672/7744/products/threads-of-fate-oracle-lumen-edition-884831_600x.jpg?v=1613440682)
