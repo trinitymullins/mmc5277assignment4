@@ -1,32 +1,53 @@
-.topnav {
-  background-color: #4e1366;
-  overflow: hidden;
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #04AA6D
-  color: white;
-}
-
-body,
-html, {
-  width: 100%;
-  height: 100%;
+*{
   margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+}
+.wrapper{
+  width: 1170px;
+  margin: 0 auto;
+}
+header{
+  height: 100px;
+  background: #4e1366;
+  width: 100%;
+  z-index: 12;
+  position: fixed;
+}
+
+.logo a{
+  text-decoration: none;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #f2f2f2
+  letter-spacing: 5px;
+}
+
+nav{
+  float: right;
+  line-height: 100px;
+}
+
+nav a{
+  text-decoration: none;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  font-size: 20px;
+  margin: 0 10px;
+  color: #fff;
+}
+
+.banner-area{
+  width: 100%;
+  height: 500px;
+  position: fixed;
+  top: 100px;
+  background-image: url('../images/tarotbanner.jpg')
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
 }
 
 .first {
